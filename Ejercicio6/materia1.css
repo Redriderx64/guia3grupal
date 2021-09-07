@@ -1,0 +1,18 @@
+/*tabla de listado de materias*/
+
+ciclo { display: table; width: 500px; text-align: center;
+              border: gray 1.5px solid; margin: 10px 50px; }
+cabecera { display: table-row; font: bold 14px arial; 
+           text-align: center;  }
+materias{ display:  table-row; font: normal 14px arial; 
+          text-align: left; }
+codigo, materia { display: table-cell; 
+        border: gray 1.5px solid; border-collapse: collapse; 
+        padding: 3px 5px;}
+
+/*titulo*/
+
+estudiante{color:black; background-color:#e7fcfd;
+line-height: 38px; display: block; text-align: center;
+font-weight:bold; font-size:25px;}
+

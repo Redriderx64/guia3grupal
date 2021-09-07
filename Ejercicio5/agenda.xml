@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="agenda.css"?>
+<?xml-stylesheet type="text/css" href="agenda1.css"?>
+
+<agenda>
+<titulo>AGENDA</titulo>
+<contactos>Contactos</contactos>
+<contacto>
+<nombre>Ivan</nombre>
+<apellido>Mendez</apellido>
+<direccion>Calle  La Bernal, 33</direccion>
+<telefono>2222-2214</telefono>
+<celular>7000-1212</celular>
+<email>ivan_mendez@hotmail.com</email>
+</contacto>
+<contacto>
+<nombre>Wendy</nombre>
+<apellido>Mejia</apellido>
+<direccion>Calle  Almendros</direccion>
+<telefono>2253-2222</telefono>
+<celular>7475-1410</celular>
+<email>wen_mejia@hotmail.com</email>
+</contacto>
+<contacto>
+<nombre>David</nombre>
+<apellido>Lopez</apellido>
+<direccion>Colonia San Alfonso 64</direccion>
+<telefono>2121-1251</telefono>
+<celular>7488-1412</celular>
+<email>davlopezx64@gmail.com</email>
+</contacto>
+<contacto>
+<nombre>Roxana</nombre>
+<apellido>Alvarenga</apellido>
+<direccion>Colonia Vista hermosa</direccion>
+<telefono>2251-4444</telefono>
+<celular>7575-7421</celular>
+<email>alvarox2021@gmail.com</email>
+</contacto>
+<contacto>
+<nombre>Marvin</nombre>
+<apellido>Villalobos</apellido>
+<direccion>Colonia San Jose </direccion>
+<telefono>2256-8745</telefono>
+<celular>7525-9752</celular>
+<email>marvinvillalobos@hotmail.com</email>
+</contacto>
+</agenda>

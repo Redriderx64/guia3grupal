@@ -1,0 +1,15 @@
+/* agenda.css */
+
+titulo{color:black; background-color: beige; line-height: 38px; display: block;
+text-align: center; font-weight: bold; font-size:30px;}
+contactos{color:darkred;  line-height: 38px; display: block;
+text-align: left; font-weight:bold; font-size:20px;}
+nombre{color:black;line-height: 10px; margin: 25px; display: inline;}
+apellido{color:black; line-height: 5px; margin: 5px; display: inline;}
+direccion{color:black; line-height: 5px; margin: 20px; display: flex;}
+telefono{color:black; line-height: 5px; margin: 20px; display: flex;}
+celular{color:black; line-height: 5px; margin: 20px; display: flex;}
+email{color:black; line-height: 5px; margin: 20px; display: flex;}
+persona{line-height: 50px; display: block; text-align: center;}
+
+

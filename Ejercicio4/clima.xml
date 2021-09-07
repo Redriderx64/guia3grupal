@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="titulo.css"?>
+<?xml-stylesheet type="text/css" href="occidental.css"?>
+<?xml-stylesheet type="text/css" href="central.css"?>
+<?xml-stylesheet type="text/css" href="oriental.css"?>
+
+<pais>
+<zona>Zona Occidental</zona>
+<occidental>
+<fecha>Sabado 21 de Septiembre</fecha>
+<cabecera>
+<departamento>Departamento</departamento>
+<temperatura>Temperatura</temperatura>
+<humedad>Humedad</humedad>
+<viento>Viento</viento>
+<salidasol>Salida sol</salidasol>
+<puestasol>Puesta sol</puestasol>
+<salidaluna>Puesta luna</salidaluna>
+<puestaluna>Salida luna</puestaluna>
+</cabecera>
+<departamentos>
+<departamento>Santa Ana</departamento>
+<temperatura>23 °C | °F</temperatura>
+<humedad>92%</humedad>
+<viento>a 5km/h</viento>
+<salidasol>0.5:45</salidasol>
+<puestasol>17:53</puestasol>
+<salidaluna> 23:33</salidaluna>
+<puestaluna>11:51</puestaluna>
+</departamentos>
+<departamentos>
+<departamento>Ahuachapan</departamento>
+<temperatura>21 °C | °F</temperatura>
+<humedad>97%</humedad>
+<viento>a 3km/h</viento>
+<salidasol>0.5:45</salidasol>
+<puestasol>17:53</puestasol>
+<salidaluna> 23:33</salidaluna>
+<puestaluna>11:51</puestaluna>
+</departamentos>
+<departamentos>
+<departamento>Sonsonate</departamento>
+<temperatura>24 °C | °F</temperatura>
+<humedad>94%</humedad>
+<viento>a 3km/h</viento>
+<salidasol> 0.5:45</salidasol>
+<puestasol>17:53</puestasol>
+<salidaluna> 23:33</salidaluna>
+<puestaluna>11:51</puestaluna>
+</departamentos>
+</occidental>
+<zona>Zona Central</zona>
+<central>
+<fecha>Domingo 22 de Septiembre</fecha>
+<cabecera>
+<departamento>Departamento</departamento>
+<temperatura>Temperatura</temperatura>
+<humedad>Humedad</humedad>
+<viento>Viento</viento>
+<salidasol>Salida sol</salidasol>
+<puestasol>Puesta sol</puestasol>
+<salidaluna>Puesta luna</salidaluna>
+<puestaluna>Salida luna</puestaluna>
+</cabecera>
+<departamentos>
+<departamento>Cabañas</departamento>
+<temperatura>24 °C | °F</temperatura>
+<humedad>98%</humedad>
+<viento>a 2km/h</viento>
+<salidasol> 0.5:45</salidasol>
+<puestasol>17:53</puestasol>
+<salidaluna> 23:33</salidaluna>
+<puestaluna>11:51</puestaluna>
+</departamentos>
+<departamentos>
+<departamento>Chalatenando</departamento>
+<temperatura>24 °C | °F</temperatura>
+<humedad>93%</humedad>
+<viento>a 3km/h</viento>
+<salidasol> 0.5:45</salidasol>
+<puestasol>17:53</puestasol>
+<salidaluna> 23:33</salidaluna>
+<puestaluna>11:51</puestaluna>
+</departamentos>
+<departamentos>
+<departamento>Cuscatlan</departamento>
+<temperatura>23 °C | °F</temperatura>
+<humedad>93%</humedad>
+<viento>a 11km/h</viento>
+<salidasol> 0.5:45</salidasol>
+<puestasol>17:53</puestasol>
+<salidaluna> 23:33</salidaluna>
+<puestaluna>11:51</puestaluna>
+</departamentos>
+<departamentos>
+<departamento>La Libetad</departamento>
+<temperatura>21 °C | °F</temperatura>
+<humedad>97%</humedad>
+<viento>a 11km/h</viento>
+<salidasol> 0.5:45</salidasol>
+<puestasol>17:53</puestasol>
+<salidaluna> 23:33</salidaluna>
+<puestaluna>11:51</puestaluna>
+</departamentos>
+<departamentos>
+<departamento>La Paz</departamento>
+<temperatura>26 °C | °F</temperatura>
+<humedad>87%</humedad>
+<viento>a 5km/h</viento>
+<salidasol> 0.5:45</salidasol>
+<puestasol>17:53</puestasol>
+<salidaluna> 23:33</salidaluna>
+<puestaluna>11:51</puestaluna>
+</departamentos>
+<departamentos>
+<departamento>San Salvador</departamento>
+<temperatura>22 °C | °F</temperatura>
+<humedad>97%</humedad>
+<viento>a 11km/h</viento>
+<salidasol> 0.5:45</salidasol>
+<puestasol>17:53</puestasol>
+<salidaluna> 23:33</salidaluna>
+<puestaluna>11:51</puestaluna>
+</departamentos>
+<departamentos>
+<departamento>San Vicente</departamento>
+<temperatura>24 °C | °F</temperatura>
+<humedad>95%</humedad>
+<viento>a 3km/h</viento>
+<salidasol> 0.5:45</salidasol>
+<puestasol>17:53</puestasol>
+<salidaluna> 23:33</salidaluna>
+<puestaluna>11:51</puestaluna>
+</departamentos>
+</central>
+<zona>Zona Oriental</zona>
+<oriental>
+<fecha>Domingo 22 de Septiembre</fecha>
+<cabecera>
+<departamento>Departamento</departamento>
+<temperatura>Temperatura</temperatura>
+<humedad>Humedad</humedad>
+<viento>Viento</viento>
+<salidasol>Salida sol</salidasol>
+<puestasol>Puesta sol</puestasol>
+<salidaluna>Puesta luna</salidaluna>
+<puestaluna>Salida luna</puestaluna>
+</cabecera>
+<departamentos>
+<departamento>Usulutan</departamento>
+<temperatura>26 °C | °F</temperatura>
+<humedad>90%</humedad>
+<viento>a 3km/h</viento>
+<salidasol> 0.5:45</salidasol>
+<puestasol>17:53</puestasol>
+<salidaluna> 23:33</salidaluna>
+<puestaluna>11:51</puestaluna>
+</departamentos>
+<departamentos>
+<departamento>San Miguel</departamento>
+<temperatura>27 °C | °F</temperatura>
+<humedad>90%</humedad>
+<viento>a 5km/h</viento>
+<salidasol> 0.5:45</salidasol>
+<puestasol>17:53</puestasol>
+<salidaluna> 23:33</salidaluna>
+<puestaluna>11:51</puestaluna>
+</departamentos>
+<departamentos>
+<departamento>Morazan</departamento>
+<temperatura>25 °C | °F</temperatura>
+<humedad>94%</humedad>
+<viento>a 2km/h</viento>
+<salidasol> 0.5:45</salidasol>
+<puestasol>17:53</puestasol>
+<salidaluna> 23:33</salidaluna>
+<puestaluna>11:51</puestaluna>
+</departamentos>
+<departamentos>
+<departamento>La Union</departamento>
+<temperatura>27 °C | °F</temperatura>
+<humedad>84%</humedad>
+<viento>a 8km/h</viento>
+<salidasol> 0.5:45</salidasol>
+<puestasol>17:53</puestasol>
+<salidaluna> 23:33</salidaluna>
+<puestaluna>11:51</puestaluna>
+</departamentos>
+</oriental>
+</pais>

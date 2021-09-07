@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="materia1.css"?>
+<?xml-stylesheet type="text/css" href="materia2.css"?>
+
+<registro>
+<estudiante>Resgistro de materias inscritas</estudiante>
+<datos>
+<cabecera>
+<carnet>Carnet</carnet>
+<apellido>Apellido</apellido>
+<nombre>Nombre</nombre>
+</cabecera>
+<alumno>
+<carnet>JO09014</carnet>
+<apellido>Alexandra</apellido>
+<nombre>Jimenez Ortiz</nombre>
+</alumno>
+</datos>
+<ciclo>
+<cabecera>
+<codigo>Codigo</codigo>
+<materia>Materia</materia>
+</cabecera>
+<materias>
+<codigo>SDU115</codigo>
+<materia>Sistemas Digitales 1</materia>
+</materias>
+<materias>
+<codigo>ANS115</codigo>
+<materia>Analisis Numerico</materia>
+</materias>
+<materias>
+<codigo>HDP115</codigo>
+<materia>Herramientas de Productivas</materia>
+</materias>
+<materias>
+<codigo>MOP115</codigo>
+<materia>Metodos de Optimizacion</materia>
+</materias>
+<materias>
+<codigo>SYP115</codigo>
+<materia>Sistemas y Procedimientos</materia>
+</materias>
+</ciclo>
+<horario>
+<titulo>Horario de Clase</titulo>
+<cabecera>
+<hora>Hora</hora>
+<lunes>Lunes</lunes>
+<martes>Martes</martes>
+<miercoles>Miercoles</miercoles>
+<jueves>Jueves</jueves>
+<viernes>Viernes</viernes>
+</cabecera>
+<horarios>
+<hora>06:20-08:00</hora>
+<lunes> SDU115
+     GT-01
+     B31 </lunes>
+<martes>ANS115
+      GT01
+      C22</martes>
+<miercoles> SDU115
+     GT-01
+     B31 </miercoles>
+<jueves>ANS115 
+     GL-07
+     LCOMP3 </jueves>
+<viernes>ANS115
+      GT01
+      C22</viernes>
+</horarios>
+<horarios>
+<hora>08:00-09:45</hora>
+<lunes>MOP115
+       GT-04
+       D11</lunes>
+<martes>HDP115
+      GT-02
+       B11</martes>
+<miercoles>MOP115
+       GD-04
+       C42</miercoles>
+<jueves>HDP115
+      GL-02
+     LCOMP1</jueves>
+<viernes>HDP115
+      GT-02
+     B11</viernes>
+</horarios>
+<horarios>
+<hora>09:45-11:30</hora>
+<lunes>SYP115
+      D11
+      GT-01   </lunes>
+<martes>MOP115
+       GT-04
+       B42</martes>
+<miercoles>SYP115
+      D11
+      GD-01   </miercoles>
+<jueves>SYP115
+      D11
+      GD-01   </jueves>
+<viernes>SDU115
+       GD-05
+      C42</viernes>
+</horarios>
+</horario>
+</registro>
+
+
+

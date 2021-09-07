@@ -1,0 +1,5 @@
+
+zona{color:black; background-color:green; line-height: 30px; display: block; text-align: center; font-weight:bold; font-size:20px;}
+departamento, temperatura, humedad, viento, salidasol, puestasol, salidaluna,puestaluna{ display: table-cell; 
+        border: gray 5px dashed; border-collapse: collapse; 
+        padding: 10px 20px;}
